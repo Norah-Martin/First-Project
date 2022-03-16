@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Norah-Martin
+- 👋 Hi, I’m Norah-Martin
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning btech
+- 🌱 I’m currently learning bmBtech
 - 💞️ I’m looking to collaborate on deep learning based projects
 - 📫 How to reach me .
 
