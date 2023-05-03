@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Norah-Martin
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning Btech
-- 💞️ I’m looking to collaborate on deep learning based projects
-- 📫 How to reach me .
-
+- 👀 Focus, perseverance, and hard work are key ingredients in my psyche.
+- 🌱 I am a fresher pursuing B.Tech from College Of Engineering,
+     Chengannur in Computer Science and Engineering
+- 💞️ I am looking for opportunities in the field of Programming, Web Development, Deep Learning to learn
+more and push my boundaries to accomplish the most daunting tasks.
+- 📫 How to reach me :norahmartin2001@gmail.com 
 <!---
 Norah-Martin/Norah-Martin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
